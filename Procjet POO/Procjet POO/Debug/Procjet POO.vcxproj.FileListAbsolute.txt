@@ -1,0 +1,16 @@
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\Procjet POO.vcxproj.AssemblyReference.cache
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\Procjet POO.vcxproj.GenerateResource.cache
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\ProcjetPOO.MainForm.resources
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\ProcjetPOO.PersonnelForm.resources
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\ProcjetPOO.ClientForm.resources
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\ProcjetPOO.CommandeForm.resources
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\ProcjetPOO.StockForm.resources
+C:\Users\pierr\OneDrive\Bureau\Procjet POO\Procjet POO\Debug\ProcjetPOO.StatistiqueForm.resources
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\Procjet POO.vcxproj.AssemblyReference.cache
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\ProcjetPOO.ClientForm.resources
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\ProcjetPOO.CommandeForm.resources
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\ProcjetPOO.MainForm.resources
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\ProcjetPOO.PersonnelForm.resources
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\ProcjetPOO.StatistiqueForm.resources
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\ProcjetPOO.StockForm.resources
+C:\Users\pierr\OneDrive\Bureau\Nouveau dossier\Fichier github\Programme\Procjet POO\Procjet POO\Debug\Procjet POO.vcxproj.GenerateResource.cache
